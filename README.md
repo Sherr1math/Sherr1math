@@ -24,6 +24,7 @@ Hello, I am **Sherr1 Young**, a sophomore from *the School of Mathematical Scien
 - **G-mail**: nkuSherr1@gmail.com
 - **TEL**: +86 13505959998
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
