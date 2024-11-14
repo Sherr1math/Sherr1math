@@ -2,11 +2,11 @@
 
 <!--
 **Sherr1math/Sherr1math** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Hello, I am **Sherr1 Young**, a sophomore from *the School of Mathematical Sciences, Nankai University*. My hometown is ***Quanzhou**, Fujian Province*.
 
 ##### Educational experience
-- Kindergarten · Jinjiang Experimental Kindergarten
 - Primary School · Jinjiang Experimental Primary School
 - Middle School · Jinjiang No.1 Middle School (Middle School)
 - Senior High School · Jinjiang No.1 Middle School (Senior High School)
